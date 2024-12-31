@@ -50,5 +50,9 @@ As we come to a conclusion, the future of text summarization seems bright. We ar
 
 Are you passionate about data and looking to make one giant leap into your career? Our Data Science Course will help you change your game and, most importantly, allow students, professionals, and working adults to tide over into the data science immersion. Master state-of-the-art methodologies, powerful tools, and industry best practices, hands-on projects, and real-world applications. Become the executive head of industries related to Data Analysis, Machine Learning, and Data Visualization with these growing skills. Ready to Transform Your Future
 
+**OUTPUT OF THE TASK_1**
+![Task_1 Output](https://github.com/user-attachments/assets/c7723feb-6713-4617-b077-1a1417ef631e)
+
+
 
 
